@@ -20,12 +20,12 @@
 // }
 
 import React from 'react'
-import Reducer from './Reducer'
+import Callbacks from './Callbacks'
 
 export default function App() {
   return (
     <div>
-      <Reducer/>
+      <Callbacks/>
     </div>
   )
 }
